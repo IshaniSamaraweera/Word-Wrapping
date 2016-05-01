@@ -21,9 +21,11 @@ Need to tally the error term for each line of text to obtain an overall score fo
 4. Output
 This outputs two things. First output the text with the optimal line-break placement that found. After the text, on the very last line, output the total error for the whole formatting job (the sum of all line error terms).
 Here is an example (taken from a literature text) of an optimal formatting job:
-INPUT
+
+INPUT:
 15 She is happy but is a blue gal. I am all gone.
-OUTPUT
+
+OUTPUT:
 She is happy
 but is a blue
 gal. I am all
